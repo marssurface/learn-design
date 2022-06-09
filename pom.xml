@@ -11,6 +11,8 @@
     <modules>
         <module>design-01-00</module>
         <module>design-01-02</module>
+        <module>design-02-00</module>
+        <module>design-02-02</module>
     </modules>
 
     <properties>
