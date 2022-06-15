@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: marsstudio-learn-degsign-springboot-door
+
+# 自定义中间件配置
+marsstudio:
+  door:
+    enabled: true
+    userStr: 1001,aaaa,ccc #白名单用户ID，多个逗号隔开
